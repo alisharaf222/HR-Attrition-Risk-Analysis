@@ -36,24 +36,6 @@ The objective is to simulate a real-world executive HR risk assessment scenario.
 
 ---
 
-## 📊 Department Attrition Rate
-
-![Department Attrition](insights/department_attrition_rate.png)
-
----
-
-## 🏢 Division Attrition Rate
-
-![Division Attrition](insights/division_attrition_rate.png)
-
----
-
-## ⏳ Tenure-Based Attrition Risk
-
-![Tenure Attrition](insights/tenure_attrition_analysis.png)
-
----
-
 📈 Risk Breakdown
 🏢 Department-Level Attrition
 
